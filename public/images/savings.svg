@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70" height="70" viewBox="0 0 70 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="savingsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00c6ff"/>
+      <stop offset="100%" style="stop-color:#0072ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M35 10C21.2 10 10 21.2 10 35s11.2 25 25 25 25-11.2 25-25S48.8 10 35 10zm0 45c-11 0-20-9-20-20s9-20 20-20 20 9 20 20-9 20-20 20z" fill="url(#savingsGradient)"/>
+  <text x="35" y="40" font-size="20" font-weight="bold" text-anchor="middle" fill="url(#savingsGradient)">₪</text>
+</svg>
